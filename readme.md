@@ -1,1 +1,5 @@
 ![Alt Text](https://github.com/hilyyu12/LatCI_2/blob/master/cp.png)
+![Alt Text](https://github.com/hilyyu12/LatCI_2/blob/master/dat_dir.png)
+![Alt Text](https://github.com/hilyyu12/LatCI_2/blob/master/event.png)
+![Alt Text](https://github.com/hilyyu12/LatCI_2/blob/master/gal.png)
+![Alt Text](https://github.com/hilyyu12/LatCI_2/blob/master/home.png)
